@@ -56,7 +56,7 @@
 
 
 	
-<li><a href="#"><i class="fa fa-user"></i>Clients</a></i>
+<li><a href="#"><i class="fa fa-user"></i>Clients</a>
 			<div class="sub-menu-1">
 			<ul>
 				<li><a href="#">TATA</a> </li>
